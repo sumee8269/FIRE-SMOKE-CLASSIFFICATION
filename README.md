@@ -42,9 +42,10 @@ Fine-Tuning: Fine-tuning of the model with our specific fire and smoke dataset.
 Fully Connected Layers: To map the extracted features to the final prediction classes.
 
 Prediction Results - 
-![image](https://github.com/user-attachments/assets/362c99a5-8cab-42b9-ac2d-65ef25edcf55)
-![image](https://github.com/user-attachments/assets/25d768dd-456f-4de1-935c-a50d410aeecc)
-![image](https://github.com/user-attachments/assets/ba74ccef-db8e-458f-bad3-9ebd8e8d6dd2)
+![image](https://github.com/user-attachments/assets/1e08970a-1d11-4d98-a6bd-c344d41837dd)
+![image](https://github.com/user-attachments/assets/d4ef6cf9-3969-4689-8e98-b4ddd549c555)
+![image](https://github.com/user-attachments/assets/38305486-d2e2-45ce-b4a9-544cbec14ecd)
+
 
 
 Contact
