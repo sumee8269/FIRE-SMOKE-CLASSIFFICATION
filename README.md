@@ -40,5 +40,12 @@ The project uses the following layers and techniques:
 ResNet50: Pre-trained on ImageNet and used as a base model.
 Fine-Tuning: Fine-tuning of the model with our specific fire and smoke dataset.
 Fully Connected Layers: To map the extracted features to the final prediction classes.
+
+Prediction Results - 
+![image](https://github.com/user-attachments/assets/362c99a5-8cab-42b9-ac2d-65ef25edcf55)
+![image](https://github.com/user-attachments/assets/25d768dd-456f-4de1-935c-a50d410aeecc)
+![image](https://github.com/user-attachments/assets/ba74ccef-db8e-458f-bad3-9ebd8e8d6dd2)
+
+
 Contact
 For any questions or contributions, please feel free to open an issue or reach out to [sumit.thakur12492@gmail.com].
